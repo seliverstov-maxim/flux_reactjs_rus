@@ -4,7 +4,7 @@ flux_reactjs_rus
 Вольный перевод flux js
 http://facebook.github.io/flux/docs/overview.html#content
 
-Flux applications have three major parts: the dispatcher, the stores, and the views (React components). 
+> Flux applications have three major parts: the dispatcher, the stores, and the views (React components). 
 These should not be confused with Model-View-Controller. Controllers do exist in a Flux application, 
 but they are controller-views — views often found at the top of the hierarchy that retrieve data from 
 the stores and pass this data down to their children. Additionally, actions — dispatcher helper 
